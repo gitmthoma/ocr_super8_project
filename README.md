@@ -18,6 +18,8 @@ https://demo.hedgedoc.org/s/13POm74xu
   
 > e. Stichprobe_COVER
 
+> f. Stichprobe_FILLOUT
+
 2. Jupyter Notebook containing python script to evaluate comparison value
   evaluation.ipnb
 3. POSTER.pdf
