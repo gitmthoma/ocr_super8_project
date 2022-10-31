@@ -1,4 +1,3 @@
-# super8_project
 # Using Tesseract OCR text recognition on UFA Super8 film catalogues 
 
 ## Data sets and files of this repository are supplemented by the project documentation under the following link: 
