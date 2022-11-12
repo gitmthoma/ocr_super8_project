@@ -18,7 +18,16 @@ https://demo.hedgedoc.org/s/13POm74xu
 
 > f. Stichprobe_FILLOUT
 
-2. Jupyter Notebook containing python script for evaluation
+2. Jupyter Notebooks containing python script for evaluating different workflows
+> a. Sample_Test.ipynb
+
+> b. Sample_COVER.ipynb
+
+> c. Sample_BLACKLIST.ipynb
+
+> d. Sample_JPG.ipynb
+
+> e. Sample_TIF.ipynb
 
 3. POSTER.pdf
 
