@@ -1,9 +1,0 @@
-Diese Textdatei enthält KEINE Absätze, die Tesseract aus den Katalogen hätte herauslesen sollen.
-
-Erster Name, zweiter Name und Name drei.
-
-Wenn alles korrekt erkannt wird, wäre das super.
-
-Best.-Nr. 000 Das hier könnte ein Titel sein. Super 8 Schwarz/Weiß 
-
-Genre
