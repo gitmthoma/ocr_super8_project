@@ -1,6 +1,6 @@
-# Using Tesseract OCR text recognition on UFA Super8 film catalogues 
+# Using OCR text recognition on UFA Super8 film catalogues 
 
-## Data sets and files of this repository are supplemented by the project documentation under the following link: 
+## Data sets and files in this repository are supplemented by the project documentation under the following link: 
 https://demo.hedgedoc.org/s/13POm74xu
 
 ## This repository contains:
@@ -10,16 +10,15 @@ https://demo.hedgedoc.org/s/13POm74xu
   
 > b. Stichprobe_TIFF
   
-> c. Stichprobe_BLACKLIST
-  
-> d. Stichprobe_FINETUNE
-  
-> e. Stichprobe_COVER
+> c. Stichprobe_OCR4all
 
-> f. Stichprobe_FILLOUT
+> d. Stichprobe_COVER
+
+> e. GroundTruth
 
 2. Jupyter Notebooks containing python script for evaluating different workflows
-> a. Sample_Test.ipynb
+
+> a. Sample_OCR4ALL.ipynb
 
 > b. Sample_COVER.ipynb
 
@@ -29,7 +28,15 @@ https://demo.hedgedoc.org/s/13POm74xu
 
 > e. Sample_TIF.ipynb
 
-3. POSTER.pdf
+3. Evaluation Visualisation
+
+> a. plot_COVER
+
+> b. plot_JPG
+
+> c. plot_TIF
+
+> d. plot_OCR4ALL
 
 4. README.md
 
