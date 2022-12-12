@@ -6,38 +6,40 @@ https://demo.hedgedoc.org/s/13POm74xu
 ## This repository contains:
 1. Several folders containing sample variations
 
-> a. Stichprobe_JPG
+> a. sample_tesseract_JPG
   
-> b. Stichprobe_TIFF
-  
-> c. Stichprobe_OCR4all
+> b. sample_tesseract_TIFF
 
-> d. Stichprobe_COVER
+> c. sample_tesseract_COVER
 
-> e. GroundTruth
+> d. sample_OCR4all_default
+
+> e. groundtruth
 
 2. Jupyter Notebooks containing python script for evaluating different workflows
 
-> a. Sample_OCR4ALL.ipynb
+> a. sample_OCR4all_default.ipynb
 
-> b. Sample_COVER.ipynb
+> b. sample_tesseract_COVER.ipynb
 
-> c. Sample_BLACKLIST.ipynb
+> c. sample_tesseract_BLACKLIST.ipynb
 
-> d. Sample_JPG.ipynb
+> d. sample_tesseract_JPG.ipynb
 
-> e. Sample_TIF.ipynb
+> e. sample_tesseract_TIF.ipynb
 
 3. Evaluation Visualisation
 
-> a. plot_COVER
+> a. plot_tesseract_COVER
 
-> b. plot_JPG
+> b. plot_tesseract_JPG
 
-> c. plot_TIF
+> c. plot_tesseract_TIF
 
-> d. plot_OCR4ALL
+> d. plot_OCR4all_default
 
 4. README.md
 
 5. LICENSE.md
+
+> Extra: db_transfer.ipynb
